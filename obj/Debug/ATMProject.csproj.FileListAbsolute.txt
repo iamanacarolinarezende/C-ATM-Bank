@@ -1,0 +1,15 @@
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\bin\Debug\ATMProject.exe.config
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\bin\Debug\ATMProject.exe
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\bin\Debug\ATMProject.pdb
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\obj\Debug\ATMProject.csproj.AssemblyReference.cache
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\obj\Debug\ATMProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\obj\Debug\ATMProject.exe
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\ATMProject\obj\Debug\ATMProject.pdb
+C:\Users\pluck\Downloads\ATMProject-20241009T004758Z-001\ATMProject\bin\Debug\ATMProject.exe.config
+C:\Users\pluck\Downloads\ATMProject-20241009T004758Z-001\ATMProject\bin\Debug\ATMProject.exe
+C:\Users\pluck\Downloads\ATMProject-20241009T004758Z-001\ATMProject\bin\Debug\ATMProject.pdb
+C:\Users\pluck\Downloads\ATMProject-20241009T004758Z-001\ATMProject\obj\Debug\ATMProject.csproj.AssemblyReference.cache
+C:\Users\pluck\Downloads\ATMProject-20241009T004758Z-001\ATMProject\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\pluck\Downloads\ATMProject-20241009T004758Z-001\ATMProject\obj\Debug\ATMProject.exe
+C:\Users\pluck\Downloads\ATMProject-20241009T004758Z-001\ATMProject\obj\Debug\ATMProject.pdb
